@@ -134,3 +134,4 @@ dmypy.json
 *.jpeg
 *.csv
 
+.idea
