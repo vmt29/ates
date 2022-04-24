@@ -3,6 +3,6 @@
 
 Repository for async architecture course.
 
-### Architecure First Draft
+### Architecture First Draft
 
 ![image info](./docs/ates_draft.png)
